@@ -9,7 +9,7 @@
 </head>
 <body>
 <?php
-$name = ' yousf';
+$name = 'yousf';
 $fruit = ' apple';
 echo " My name is $name " ;
 echo "<p>I ate 10 {$fruit}s </p>" ;
